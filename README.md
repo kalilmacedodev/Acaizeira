@@ -4,7 +4,7 @@ Este é um **website** simplório feito para o meu portfólio com o intuito de a
 
 ## Protótipo </>
 
-Veja o protótipo online aqui: https://kalilmacedo.github.io/Acaizeira/
+Veja o protótipo online aqui: [Açaízeira Online](acaizeira.kalilmacedo.net)
 
 ## Sobre mim 👨‍💻
 
